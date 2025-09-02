@@ -71,10 +71,6 @@ print(result)
 - Do not reuse passwords across accounts
 
 
-## Output - Success
-
-![alt text](media/success.png)
-
 # 2.CPU Monitoring Script with Alerts
 
 This Python script continuously monitors CPU usage and triggers alerts when the usage exceeds a specified threshold. 
