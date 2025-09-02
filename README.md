@@ -234,7 +234,8 @@ python backup.py /home/user/source_folder /home/user/backup_folder
 - If an error occurs while copying, the script displays the error but continues with other files.
 
 ## Output Backup
-![alt text](media/backup.png)
+<img width="503" height="181" alt="image" src="https://github.com/user-attachments/assets/58a146c8-bbf1-4c40-9910-fd7f9f969f94" />
+
 
 ## License
 This script is open-source and can be modified as needed.
